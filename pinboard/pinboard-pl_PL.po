@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Pinboard\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-09 21:04+0200\n"
-"PO-Revision-Date: 2014-07-29 21:49+0100\n"
+"PO-Revision-Date: 2014-08-23 21:07+0100\n"
 "Last-Translator: Paweł Kopociński <pawel.kopocinski@gmail.com>\n"
 "Language-Team: Paweł Kopociński <pawel.kopocinski@gmail.com>\n"
 "MIME-Version: 1.0\n"
@@ -623,3 +623,19 @@ msgstr "Tyłuł formularza komentarzy"
 #: includes/theme-options.php:1150
 msgid "Widget Title Tag"
 msgstr "Tytuł widgetu"
+
+#: includes/theme-options.php:1150
+msgid "archive category"
+msgstr "archiwum kategorii"
+
+#: includes/theme-options.php:1150
+msgid "archive"
+msgstr "archiwum"
+
+#: includes/theme-options.php:1150
+msgid "archive author"
+msgstr "archiwum autora"
+
+#: includes/theme-options.php:1150
+msgid "archive tag"
+msgstr "archiwum taga"
